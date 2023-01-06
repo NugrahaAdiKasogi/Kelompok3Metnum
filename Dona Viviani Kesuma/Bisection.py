@@ -1,5 +1,5 @@
-#Nugraha Adiputra - 2101891
-#Codingan SPL metode biseksi
+#Dona Viviani Kesuma (2106394)
+#bisection metode
 
 import numpy as np #panggil library
 
