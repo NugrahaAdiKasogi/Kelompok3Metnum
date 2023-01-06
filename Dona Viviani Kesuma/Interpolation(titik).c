@@ -1,5 +1,5 @@
-//Nugraha Adiputra - 2101891
-//Interpolasi Titik
+//Dona Viviani Kesuma - 2106394
+//Interpolation (titik)
 
 #include <stdio.h>
 
