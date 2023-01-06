@@ -1,5 +1,5 @@
-//Nugraha Adiputra -2101891
-//Codingan Gauss
+//Dona Viviani Kesuma (2106394)
+//Gauss Elimination
 
 #include<stdio.h>
 #include<conio.h>
