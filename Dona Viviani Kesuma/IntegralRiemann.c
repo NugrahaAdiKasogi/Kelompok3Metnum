@@ -1,4 +1,4 @@
-//Nugraha Adiputra - 2101891
+//Dona Viviani Kesuma (2106394)
 //Integral Reimann
 
 #include<stdio.h>
